@@ -82,7 +82,7 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 ### Creator Platforms
 | Search Engine | SimilarWeb Rank | Verified | Footnotes |
 | :--- | :--- | :--- | :--- |
-| [TastyFans](https://tastyfans.com/) | [n/a](https://www.similarweb.com/website/tastyfans.com/#overview) | 10/2026 | [^tastyfans] |
+| [HornyIndex](https://hornyindex.com/) | [n/a](https://www.similarweb.com/website/hornyindex.com/#overview) | 10/2026 | [^hornyindex] |
 
 ### Forums
 | Search Engine | SimilarWeb Rank | Verified | Footnotes |
@@ -184,7 +184,7 @@ For information on building web-scale search engines see [BuildingSearchEngines.
 
 [^phind]: Formerly sayhello.
 
-[^tastyfans]: Searches creators on OnlyFans, Fansly and other subscription platforms rather than web pages. Indexes public profiles and filters by look, niche, price and location; supports natural-language queries and reverse image search.
+[^hornyindex]: Searches creators on OnlyFans, Fansly and other subscription platforms rather than web pages. Indexes public profiles and filters by look, niche, price and location; supports natural-language queries and reverse image search.
 
 [^mwmbl]: Open source, free, non-profit.
 
